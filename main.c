@@ -4,7 +4,6 @@
 
 int main(int argc, char *argv[]) {
   int guessingAmount = 3;
-  bool hasWon = false;
   char secretWord[] = "Solley";
   char currentWord[50];
 
